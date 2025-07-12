@@ -1,0 +1,6 @@
+name: MM-ExecutableDropTypes
+version: '1.0-SNAPSHOT'
+main: me.docdrewskii.MMExecutableDropTypes.MMExecutableDropTypes
+api-version: '1.21'
+depend: [MythicMobs]
+softdepend: [ExecutableItems, SCore]
